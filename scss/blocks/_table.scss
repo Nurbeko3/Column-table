@@ -1,0 +1,20 @@
+.site-table{
+    margin: 200px auto;
+    border: 2px solid #594F8B;
+}
+.site-table > thead{
+    background-color: #55608E;
+}
+.site-table > thead > tr > th {
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.table-body{
+    background-color: #7585A6;
+}
+.table-body > tr > td{
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+}
